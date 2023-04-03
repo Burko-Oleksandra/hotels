@@ -14,6 +14,7 @@
               :descr="apartment.descr"
               :rating="apartment.rating"
               :price="apartment.price"
+              :imgUrl="apartment.imgUrl"
               class="apartments-list__item"
             />
           </template>
