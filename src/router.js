@@ -11,7 +11,7 @@ const MyOrdersPage = () => import("./pages/MyOrdersPage");
 
 const routes = [
   {
-    path: "/hotels",
+    path: "/",
     component: HomePage,
     name: "homepage",
   },
